@@ -1,4 +1,4 @@
-#Snow fall simulation based on JavaFx
+#Snow fall simulation based on JavaFx#
 ----------
 This is the simple simulation which representing a falling snow.
 ----------
